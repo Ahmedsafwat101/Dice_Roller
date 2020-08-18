@@ -4,7 +4,7 @@ Playing board games but can't find your dice? No worries, here is a simple dice 
 This project is an excellent tutorial for Android Google Developers course for beginners using kotlin . I have demonstrated it at multiple Android 101 workshops and have always received positive feedback.
 
 
-<img src='https://github.com/Ahmedsafwat101/TodoCodePath/blob/master/sampletodolist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ahmedsafwat101/Dice_Roller/blob/master/DiceRoll.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Concepts learned in the tutorial
