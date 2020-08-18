@@ -1,4 +1,4 @@
-# Dice Roll
+# Dice Roll (Kotlin)
 Playing board games but can't find your dice? No worries, here is a simple dice roll app on your phone!
 
 This project is an excellent tutorial for Android Google Developers course for beginners using kotlin . I have demonstrated it at multiple Android 101 workshops and have always received positive feedback.
